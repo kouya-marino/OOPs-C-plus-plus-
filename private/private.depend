@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541906601 source:/home/prashant/Documents/programming/C++/private/main.cpp
+	<iostream>
+	<string>
+
